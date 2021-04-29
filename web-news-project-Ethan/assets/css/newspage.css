@@ -1,0 +1,36 @@
+body{
+  font-family: 'ArchivoNarrowRegular';
+  font-weight: normal;
+  font-style: normal;
+  background-color: rgb(255, 255, 255);
+}
+a{
+  color: rgb(59, 53, 90);
+  text-decoration: none;
+}
+c{
+  color: rgb(255, 255, 255);
+  text-decoration: underline;
+  font-weight: bolder;
+}
+d{
+  color: rgb(180, 0, 0);
+  font-weight: bolder;
+}
+nav#main{
+  background-color: rgb(180, 0, 0);
+  font-size: 24px;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  text-align: center;
+}
+nav#main li{
+  display: inline-block;
+  margin-right: 20px;
+}
+img.full-width-image{
+  width:100%;
+  max-height: 300px
+}
+
+
